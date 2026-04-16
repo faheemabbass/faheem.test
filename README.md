@@ -1,6 +1,6 @@
 
 
-<h1>Hi, I'm Faheem</h1>
+<h1>Hi, I'm Faheem Abbas</h1>
 
 <p>
 Software Engineer | Python Developer | SQA Enthusiast
